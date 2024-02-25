@@ -1,0 +1,38 @@
+body{
+    background-color: lightgreen;
+}
+
+#timer{
+    font-size:30;
+    margin-left: 50%;
+    font-weight: bold;
+}
+
+#score{
+    font-size:30;
+    font-weight: bold;
+    
+}
+
+h1{
+    background-color: whitesmoke;
+}
+
+#sketch
+{
+    font-size: 20;
+    font-weight: bolder;
+}
+
+#confidence
+{
+    font-size: 20;
+    font-weight: bolder;
+}
+
+#sketch_drawing
+{
+    font-size: 20;
+    font-weight: bolder;
+    color: red;
+}
